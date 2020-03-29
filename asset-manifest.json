@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "superZUN.github.io/etymomap/static/css/main.5a9b470d.chunk.css",
+    "main.js": "superZUN.github.io/etymomap/static/js/main.1406a404.chunk.js",
+    "main.js.map": "superZUN.github.io/etymomap/static/js/main.1406a404.chunk.js.map",
+    "runtime-main.js": "superZUN.github.io/etymomap/static/js/runtime-main.0f3ee85f.js",
+    "runtime-main.js.map": "superZUN.github.io/etymomap/static/js/runtime-main.0f3ee85f.js.map",
+    "static/js/2.cd9a7021.chunk.js": "superZUN.github.io/etymomap/static/js/2.cd9a7021.chunk.js",
+    "static/js/2.cd9a7021.chunk.js.map": "superZUN.github.io/etymomap/static/js/2.cd9a7021.chunk.js.map",
+    "index.html": "superZUN.github.io/etymomap/index.html",
+    "precache-manifest.f5e8f595e4d53b4963d68898fe40b308.js": "superZUN.github.io/etymomap/precache-manifest.f5e8f595e4d53b4963d68898fe40b308.js",
+    "service-worker.js": "superZUN.github.io/etymomap/service-worker.js",
+    "static/css/main.5a9b470d.chunk.css.map": "superZUN.github.io/etymomap/static/css/main.5a9b470d.chunk.css.map",
+    "static/js/2.cd9a7021.chunk.js.LICENSE.txt": "superZUN.github.io/etymomap/static/js/2.cd9a7021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f3ee85f.js",
+    "static/js/2.cd9a7021.chunk.js",
+    "static/css/main.5a9b470d.chunk.css",
+    "static/js/main.1406a404.chunk.js"
+  ]
+}
