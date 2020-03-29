@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df2720ef8fec2c6aa57132a85be14339",
+    "revision": "0c2a1f163f84c82c8c7a42db9bc0265c",
     "url": "superZUN.github.io/etymomap/index.html"
   },
   {

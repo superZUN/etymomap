@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "superZUN.github.io/etymomap/precache-manifest.f5e8f595e4d53b4963d68898fe40b308.js"
+  "superZUN.github.io/etymomap/precache-manifest.19d277ca9d4bda7c079ede513650519a.js"
 );
 
 self.addEventListener('message', (event) => {
